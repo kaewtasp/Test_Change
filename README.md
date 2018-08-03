@@ -6,7 +6,7 @@
 
 3. When changed script please notify in Issues
 
-4. All script use JavaScript base of PIXIjs
+4. All script use JavaScript base of PIXIjs "<>" sign is unnecessary
 
 5. Easier : inherit class XXX_Base
 
