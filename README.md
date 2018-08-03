@@ -8,11 +8,11 @@
 
 4. All script use JavaScript base of PIXIjs
 
-5. Easier : inherite class XXX_Base
+5. Easier : inherit class XXX_Base
 
-6. Harder : inherite class window etc.
+6. Harder : inherit class window etc.
 
-7. Unbelieavable : inherite class directly form PIXI
+7. Unbelieavable : inherit class directly form PIXI
 
 8. Learning about all method in https://kinoar.github.io/rmmv-doc-web/index.html
 
