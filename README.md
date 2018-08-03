@@ -19,3 +19,5 @@
 9. Help file https://rmmv.neocities.org/
 
 10. Learn Javascript https://www.w3schools.com/js/default.asp
+
+11. Default script is in Test_Base reputa
