@@ -20,4 +20,4 @@
 
 10. Learn Javascript https://www.w3schools.com/js/default.asp
 
-11. Default script is in Test_Base reputa
+11. Default script is in Test_Base repositories https://github.com/kaewtasp/Test_Base
