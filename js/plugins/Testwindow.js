@@ -21,7 +21,6 @@ Test_Window.prototype.refresh = function(){
 	 var x = this.textPadding();
     var width = this.contents.width - this.textPadding() * 2;
     this.contents.clear();
-    //this.drawCurrencyValue(this.value(), this.currencyUnit(), x, 0, width);
 	this.drawText('test', 0, 0, 200 - this.textWidth('00'), 'center');
 }
 Test_Window.prototype.open = function() {
@@ -76,8 +75,3 @@ Window_Gold2.prototype.open = function() {
     this.refresh();
     Window_Base.prototype.open.call(this);
 };
-
-/*Test_Window.prototype.open = function() {
-    this.refresh();
-    Window_Base.prototype.open.call(this);
-};*/
